@@ -1,0 +1,28 @@
+
+.backgr img{
+    width: 100%;
+    position: relative;
+}
+.banner-content
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.banner-content p{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 700;
+}
+.btn{
+    background-color: #ccc;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5%;
+}
+.btn:hover{
+    background-color: aqua;
+}
