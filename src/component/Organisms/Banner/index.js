@@ -8,7 +8,7 @@ function Banner(props) {
 
     return (
         <div className='backgr'>
-            <img src='/img/slide3.jpg'/>
+            <img src='img/slide3.jpg'/>
 
             <div className='banner-content'>
                 {show && <Title/>}
